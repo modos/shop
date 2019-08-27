@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="login_text_username">Username:</string>
+    <string name="login_text_password">Password:</string>
+    <string name="login_text_hint_username">Enter your username here</string>
+    <string name="login_text_hint_password">Enter your password here</string>
+    <string name="register_text_hint_name">Enter your name here</string>
+    <string name="login_button_text_submit">Submit</string>
+    <string name="register_text_hint_age">Enter your age here</string>
+    <string name="management_button_text">Users</string>
+    <string name="management_text_button">Products</string>
+    <string name="management_text_button_add">Add</string>
+    <string name="row_product_text_button_plus">+</string>
+    <string name="row_product_text_button_minus">-</string>
+    <string name="management_list_text_empty">nothing to show</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="user_list_name">Name:</string>
+    <string name="user_list_type">Type:</string>
+    <string name="user_list_produceDate">Produce Date:</string>
+    <string name="user_list_width">Width:</string>
+    <string name="user_list_height">Height:</string>
+    <string name="user_list_weight">Weight:</string>
+    <string name="user_list_count">Count</string>
+    <string name="user_list_button_buy">Buy</string>
+    <string name="welcome_text">Welcome to my shop</string>
+</resources>
